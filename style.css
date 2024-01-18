@@ -12,7 +12,6 @@ html, body {
   nav {
     margin: 0;
     padding: 20px 0;
-    display: inline-block;
   }
   
   nav li {
@@ -21,6 +20,7 @@ html, body {
     font-weight: 600;
     font-size: 12px;
     display: inline-block;
+    width: 80px;
   }
   
   main {
